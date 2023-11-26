@@ -10,5 +10,7 @@ Key Highlights:
 5. Data Migration to Original Database
 6. Retrieval of critical business insights, such as total customers, product sub-category sales contributions, top products by profit, and territory-wise sales.
 7. These steps collectively demonstrate database management, data transformation, and the execution of analytical queries to extract meaningful insights from the Adventure Works dataset.
+
+   
 SQL file Link : https://drive.google.com/file/d/1CqaIKDzBckj7iDm7pNYP8UaSucMkmrmg/view?usp=sharing
 PDF Link : https://drive.google.com/file/d/1TSxGYdChnvIuOuCOIYdHJhqYahllXjaV/view?usp=sharing
